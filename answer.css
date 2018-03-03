@@ -1,0 +1,11 @@
+*{
+	background-color: gray;
+	font-family: cursive;
+	font-size: 50px;
+}
+body > a{
+	color:white;
+	text-decoration: none;
+	border-radius: 25%;
+background-color: blue;
+}

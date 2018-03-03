@@ -1,0 +1,17 @@
+#id1{
+	font-size: 40px;
+	font-family: cursive;
+	background-color: gray;
+}
+#Name{
+	color: red;
+	background-color:blue; 
+}
+body > h2{
+	background-color: blue; 
+}
+body a{
+	color: white;
+	background-color: red;
+	text-decoration: none;
+}
